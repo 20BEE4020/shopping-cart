@@ -1,0 +1,37 @@
+
+.product{
+    padding: 5px;
+    margin: 5px;
+}
+.product .img{
+    display: inline;   
+}
+.product .img img{
+    width:270px;
+    height: 200px;
+}
+.details{
+    padding: 5px;
+}
+.details h3{
+    letter-spacing: 0.5px;
+}
+
+.details button{
+    margin-top: 10px;
+    padding: 5px;
+    background-color:darkcyan;
+    border-radius: 5px;
+    border:none;
+    color: azure;
+    padding: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.details button:hover{
+    background-color: rgb(6, 81, 110);
+}
+.cart-container{
+    display: flex;
+    flex-wrap: wrap;
+}

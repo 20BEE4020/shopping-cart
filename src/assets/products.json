@@ -1,0 +1,82 @@
+[
+    {
+        "id": 89, "name":"Pizza", "amt":"299","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/89.jpg","latest":"No"
+    ,"in_cart":false},
+    {
+        "id": 124, "name":"Dosa", "amt":"100","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/124.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 120, "name":"Noodles", "amt":"150","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/120.jpg","latest":"No"
+    ,"in_cart":false},
+    
+    
+    {
+        "id": 26, "name":"Pasta", "amt":"270","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/26.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 9, "name":"Chicken 65", "amt":"399","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/9.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 80, "name":"Cheesy Pizza", "amt":"450","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/80.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 28, "name":"Orange Juice", "amt":"99","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/28.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 73, "name":"Cashew sweet", "amt":"140","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/73.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 135, "name":"Japan Ramen", "amt":"499","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/135.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 12, "name":"peri peri Pizza", "amt":"599","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/12.jpg","latest":"No"
+    ,"in_cart":false},
+    
+    {
+        "id": 44, "name":"Butter scotch", "amt":"199","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/44.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 137, "name":"Tender flavour cup sweet", "amt":"249","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/137.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 67, "name":"Palkova", "amt":"199","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/67.jpg","latest":"No"
+    ,"in_cart":false},
+    
+    {
+        "id": 120, "name":"Egg Noodles", "amt":"199","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/120.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 28, "name":"Honey Orange Juice", "amt":"299","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/28.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 73, "name":"Square sweet", "amt":"139","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/73.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 135, "name":"Korean Ramen", "amt":"399","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/135.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id": 12, "name":"Mushroom Pizza", "amt":"499","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/12.jpg","latest":"No"
+    ,"in_cart":false},
+    
+    {
+        "id": 44, "name":"Creamy mango ice cream", "amt":"229","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/44.jpg","latest":"No"
+    ,"in_cart":false}, 
+    
+    {
+        "id":137 , "name":"Pista payasa", "amt":"179","shop":"pizza Hut","ftype":"Pizza","pic":"https://www.app.tutorjoes.in/img/food/137.jpg","latest":"No"
+    ,"in_cart":false}
+    
+]
