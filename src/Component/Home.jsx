@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Home.css";
+import "./home.css";
 import data from "../assets/products.json";
 import { Product } from "./Product";
 
