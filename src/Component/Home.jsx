@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./home.css";
 import data from "../assets/products.json";
-import { Product } from "./Product";
+import { Product } from "./product";
 
 export const Home = ({count,setCount}) => {
   const [products] = useState(data);
